@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10
+let numeroLimite = 100
 
 function exibirTextoNaTela(tag, texto){
     let titulo = document.querySelector(tag);
